@@ -7,3 +7,4 @@ router.get("/:id/styles", ctrl.getAllStyle);
 router.get("/:id/related", ctrl.getRelatedStyle);
 
 module.exports = router;
+
